@@ -2,9 +2,11 @@
 <h1>Hi devs, sou a Sinara.</h1>
 
 <p align="left"> 
-<strong>* Atualmente sou estudante fullstack na Cubos Academy*</strong> <br>
-Sou aquela que caiu de paraquedas na tecnologia e no primeiro contato que tive mudei totalmente meus conceitos pré-estabelecidos e passei a apreciar mais a área. 
-Meus conhecimentos e minhas experiências são iniciais , mas sou muito esforçada , dedicada e estudiosa. Sei que posso chegar muito longe com a perseverança que tenho e meu objetivo é continuar em constante aprendizado.
+De bióloga frustrada a desenvolvedora de software. Constante aprendiz, fascinada em contribuir para o desenvolvimento de pessoas e quero me tornar inspiração a outras mulheres para entrarem na área da programação.
+
+Atualmente fazendo um curso intensivo fullstack na Cubos Academy abordando as tecnologias voltadas ao Frontend (HTML, CSS, JavaScript,React) , ao Backend (NodeJs, Api, JavaScript, Criptografias) e modelagem de dados (PostgreesSQL)
+
+Tenho interesse em atuar como desenvolvedora web Frontend.
 
 </p>
 
@@ -17,7 +19,7 @@ Meus conhecimentos e minhas experiências são iniciais , mas sou muito esforça
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Postgrees](https://img.shields.io/badge/-Postgrees-333333?style=flat&logo=postgress)
   </strong>
 </p>
 
