@@ -11,7 +11,8 @@ Realizei um estágio por 1.2 m na Basis, onde desenvolvia aplicações Web utili
 
 Por tanto sou formada em ADS e tempos atrás me formei em um curso intensivo FullStack  na Cubos Academy abordando as tecnologias voltadas ao Frontend (HTML, CSS, JavaScript,React) , ao Backend (NodeJs, Api, JavaScript, Criptografias) e modelagem de dados (PostgreesSQL).
 
-E cá estou eu pronta para uma nova oportunidade de emprego.Tenho interesse em atuar como desenvolvedora web Frontend ou Full Stack.
+Procurando oportunidades para ser realocada no mercado de trabalho.
+Tenho interesse em atuar como desenvolvedora web Front-end, Back-end ou Full Stack.
 
 ## :keyboard: Hard Skills:
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
