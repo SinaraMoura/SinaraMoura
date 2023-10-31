@@ -2,17 +2,17 @@
 <h1>Hi devs, eu sou a Sinara.</h1>
 
 <p align="left"> 
-Sou natural de Brasília , mas com o pézinho no Tocantins (moça da capital com trejeitos caipira uá). Tenho 27 anos , sou casada e mãe de dois lindos bêbes (Lorena e Levi ).
+Sou natural de Brasília , mas com o pézinho no Tocantins (moça da capital com trejeitos caipira uá). Com 27 anos de idade , sou casada e mãe de dois lindos bêbes (Lorena e Levi ).
   
-Costumo dizer que caí de paraquedas no mundo na tecnologia, pois acreditava que essa área não era para mim, mas FELIZMENTE mudei totalmente meus conceitos pré-estabelicidos e me rendi a esse mundo incrível.
+Costumo dizer que entrei no mundo da tecnologia de forma inesperada, pois, inicialmente, acreditava que essa área não era para mim. Felizmente, mudei completamente minha perspectiva e me entreguei a esse universo fascinante.
 
-Meu primeiro contato foi em 2017, quando comecei a trabalhar em casa de família e meus patrões eram da áerea e me incentivaram bastante. Estudei durante o ano de 2017 algumas matérias relacionadas a programação  e decidir entrar na faculdade de ADS em 2018.
-Realizei um estágio por 1.2 m na Basis, onde desenvolvia aplicações Web utilizando arquitetura REST API na linguagem Java e Angular.
+Meu primeiro contato aconteceu em 2017, quando comecei a trabalhar para uma família cujos membros eram da área de tecnologia e me incentivaram a explorá-la. Durante o ano de 2017, estudei algumas disciplinas relacionadas à programação e, em 2018, decidi ingressar na faculdade de Análise e Desenvolvimento de Sistemas (ADS). Posteriormente, realizei um estágio de 1.2 m na Basis, onde desenvolvi aplicações web com arquitetura REST API, usando Java e Angular.
 
-Por tanto sou formada em ADS e tempos atrás me formei em um curso intensivo FullStack  na Cubos Academy abordando as tecnologias voltadas ao Frontend (HTML, CSS, JavaScript,React) , ao Backend (NodeJs, Api, JavaScript, Criptografias) e modelagem de dados (PostgreesSQL).
+Como resultado, obtive minha formação em ADS e, algum tempo depois, concluí um curso intensivo FullStack na Cubos Academy, abrangendo tecnologias de Frontend (HTML, CSS, JavaScript, React), Backend (Node.js, API, JavaScript, criptografia) e modelagem de dados (PostgreSQL).
 
-Procurando oportunidades para ser realocada no mercado de trabalho.
-Tenho interesse em atuar como desenvolvedora web Front-end, Back-end ou Full Stack.
+Atualmente, estou em busca de oportunidades para me reintegrar ao mercado de trabalho. Tenho um forte interesse em atuar como desenvolvedora web, seja no Front-end, Back-end ou como Full Stack. Estou determinada a contribuir com minha paixão pela programação e meu conhecimento para criar soluções inovadoras.
+
+Estou ansiosa para embarcar na próxima etapa da minha carreira e enfrentar novos desafios no mundo da tecnologia.
 
 ## :keyboard: Hard Skills:
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
