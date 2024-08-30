@@ -10,9 +10,9 @@ Meu primeiro contato aconteceu em 2017, quando comecei a trabalhar para uma fam�
 
 Como resultado, obtive minha formação em ADS e, algum tempo depois, concluí um curso intensivo FullStack na Cubos Academy, abrangendo tecnologias de Frontend (HTML, CSS, JavaScript, React), Backend (Node.js, API, JavaScript, criptografia) e modelagem de dados (PostgreSQL).
 
-Atualmente, estou em busca de oportunidades para me reintegrar ao mercado de trabalho. Tenho um forte interesse em atuar como desenvolvedora web, seja no Front-end, Back-end ou como Full Stack. Estou determinada a contribuir com minha paixão pela programação e meu conhecimento para criar soluções inovadoras.
+Atualmente, estou com a mão na massa, ganhando experiência e me aventurando cada vez mais no universo do desenvolvimento. Meu próximo grande passo? Virar uma verdadeira arquiteta de software! Tenho como meta transformar ideias complexas em soluções simples e eficientes.
 
-Estou ansiosa para embarcar na próxima etapa da minha carreira e enfrentar novos desafios no mundo da tecnologia.
+Estou empolgada para trilhar esse caminho e me desafiar ainda mais, porque, se tem uma coisa que eu aprendi, é que na tecnologia a gente nunca para de aprender. E eu estou aqui para absorver cada novidade, construir minha carreira e, quem sabe, projetar sistemas incríveis que façam a diferença.
 
 ## :keyboard: Hard Skills:
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
